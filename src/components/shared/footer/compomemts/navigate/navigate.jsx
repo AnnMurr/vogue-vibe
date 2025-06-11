@@ -8,16 +8,16 @@ export const Navigate = () => {
             <div>
                 <Title text="About us" />
                 <ul>
-                    <Item text="About" link="#" />
-                    <Item text="Career" link="#" />
+                    <Item text="About" link="/about" />
+                    <Item text="Career" link="/career" />
                 </ul>
             </div>
             <div>
                 <Title text="Rules" />
                 <ul>
-                    <Item text="Privacy Policy" link="#" />
-                    <Item text="Terms of Website User" link="#" />
-                    <Item text="Cookie Policy" link="#" />
+                    <Item text="Privacy Policy" link="/privacy" />
+                    <Item text="Terms of Website User" link="/terms" />
+                    <Item text="Cookie Policy" link="/cookies" />
                 </ul>
             </div>
             <div>
