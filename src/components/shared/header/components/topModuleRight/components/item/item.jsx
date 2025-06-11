@@ -4,7 +4,7 @@ export const Item = ({ name, iconClass }) => {
     return (
         <TopModuleBlock>
             <Icon>
-                <i class={iconClass}></i>
+                <i className={iconClass}></i>
             </Icon>
             <span>{name}</span>
         </TopModuleBlock>

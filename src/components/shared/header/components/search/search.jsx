@@ -5,7 +5,7 @@ export const Search = () => {
         <Container>
             <Icon>
                 <span>
-                    <i class="bi bi-search"></i>
+                    <i className="bi bi-search"></i>
                 </span>
             </Icon>
             <span>Search</span>
